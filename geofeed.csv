@@ -1,7 +1,6 @@
 # CIC Global Geofeed updated 2024-04-23T21:33:12+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# number of records: 7
-# checksums of content minus comments:
+# number of records: 7 checksums of content minus comments:
 # SHA256: 032e7a53f742f8e2089ec6df62196ac8d5685baa398ac74304e9b2096d3a4603
 # SHA512: ce21da724acab23ff0a6127193c1e78c9e973c62ed1db0dd79d533a74a003178cdebb1052ef8a1c48aa2857c0dd1374533b796f09281b48f448b1f4e46fd91b6
 204.9.220.0/22,US,US-MA,Cambridge,
