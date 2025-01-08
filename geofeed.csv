@@ -2,7 +2,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # number of records: 7 checksums of content minus comments:
 # SHA256: fd4138e7a5889627598b70155781418564fd71723f42dfba51fa6a086a4cc6a2
-# SHA512: 154be264ee870f258038d0b4cf4e63338b02745b8571548e101ec18e244040124cc311952efe60336bfec0e3292662586bd4225b94dd86d117ea4a10b89ac5f7
 204.9.220.0/22,US,US-MA,Cambridge,
 135.84.57.0/24,US,US-MA,Boston,
 135.84.58.0/24,US,US-PA,Philadelphia,
