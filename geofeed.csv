@@ -1,7 +1,7 @@
 # CIC Global Geofeed updated 2025-01-02T21:33:12+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # number of records: 8 checksums of content minus comments:
-# SHA256: 26d3eff1118931a68cda66738c2823a2688da066bc8dfe4fbb6c36bbf400ff37
+# SHA256: 9D7E4F5753DD426D35CDF74D93BA00050D41F899C491BD916E7EFA66195097BB
 204.9.220.0/22,US,US-MA,Cambridge,
 135.84.57.0/24,US,US-MA,Boston,
 135.84.58.0/24,US,US-PA,Philadelphia,
@@ -10,4 +10,4 @@
 74.116.33.0/24,NL,NL-ZH,Rotterdam,
 74.116.34.0/24,JP,JP-13,Tokyo,
 74.116.35.0/24,JP,JP-40,Fukuoka,
-#
+74.116.36.0/24,DE,DE-BE,Berlin,
